@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hynews</string>
+    <string name="setting">设置</string>
+    <string name="video">视频</string>
+    <string name="picture">图片</string>
+    <string name="topic">专题</string>
+    <string name="comment_format">%s评论</string>
+</resources>
